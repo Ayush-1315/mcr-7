@@ -1,0 +1,12 @@
+.card{
+    background-color: red;
+    height: 30vh;
+    width: 30vw;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    border-radius: 10px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

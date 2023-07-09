@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    padding:1rem;
+}
+.image{
+    height: 50vh;
+    width: 40vw;
+}
+.container div:nth-child(2){
+    text-align: left;
+    padding:1rem;
+}
+.container div:nth-child(2) span{
+    color:purple;
+    font-weight: bold;
+}
+.container a{
+    color:rgb(161, 3, 3);
+    text-decoration: none;
+}
